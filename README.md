@@ -8,7 +8,7 @@
 
 ## 🔥 Check Out
 * 🍵 [HiTea](https://hitea-287522.ue.r.appspot.com/ "HiTea") bubble tea shop
-* 👜 [Deluxe Consignment Store](https://github.com/LemonFace0309/Deluxe-Consignment "DCS") for all things Gucci
+* 👜 [Deluxe Consignment Store](https://deluxe-consignment.uk.r.appspot.com/ "DCS") for all things Gucci
 
 ## 📧 Contact Me
 <a href="https://www.linkedin.com/in/jimmyyang7/">
