@@ -7,7 +7,7 @@
     * ✨ Tips and tricks appreciated 😊
 
 ## 🔥 Check Out
-* 🍵 [HiTea](https://hitea-287522.ue.r.appspot.com/ "HiTea") bubble tea shop
+* 🍵 [HiTea](https://hiteato.ca/ "HiTea") bubble tea shop
 * 👜 [Deluxe Consignment Store](https://deluxe-consignment.uk.r.appspot.com/ "DCS") for all things Gucci
 
 ## 📧 Contact Me
