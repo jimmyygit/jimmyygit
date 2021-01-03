@@ -8,7 +8,7 @@
 
 ## 🔥 Check Out
 * 🍵 [HiTea](https://hiteato.ca/ "HiTea") bubble tea shop
-* 👜 [Deluxe Consignment Store](https://deluxe-consignnment.uk.r.appspot.com/ "DCS") for all things fashion
+* 👜 [Deluxe Consignment Store](https://deluxe-consignment.uk.r.appspot.com/ "DCS") for all things fashion
 
 <br />
 <!-- ## 📧 Contact Me -->
