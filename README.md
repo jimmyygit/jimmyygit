@@ -2,7 +2,7 @@
 
 ## 🧍 About Me
 * 🎓 Honours Bachelor of Mathematics at the University of Waterloo
-* 💻 Lead Developer at [Cache and Cookies 🍪](https://hitea-287522.ue.r.appspot.com/ "Temporary")
+* 💻 Lead Developer at [Cache and Cookies 🍪](https://www.linkedin.com/company/cache-and-cookies/ "Cache and Cookies")
 * 🌎 React and Node enthusiast
     <!-- * ✨ Tips and tricks appreciated 😊 -->
 
