@@ -1,14 +1,15 @@
 # Hello~ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-## 🧍 About Me
+<!-- ## 🧍 About Me
 * 🎓 Honours Bachelor of Mathematics at the University of Waterloo
 * 💻 Lead Developer at [Cache and Cookies 🍪](https://www.linkedin.com/company/cache-and-cookies/ "Cache and Cookies")
-* 🌎 React and Node enthusiast
+* 🌎 React and Node enthusiast -->
     <!-- * ✨ Tips and tricks appreciated 😊 -->
 
 ## 🔥 Check Out
 * 🍵 [HiTea](https://hiteato.ca/ "HiTea") bubble tea shop
 * 👜 [Deluxe Consignment Store](https://deluxe-consignment.uk.r.appspot.com/ "DCS") for all things fashion
+* 💻 [Cache and Cookies 🍪](https://www.linkedin.com/company/cache-and-cookies/ "Cache and Cookies") software development
 
 <br />
 <!-- ## 📧 Contact Me -->
