@@ -1,4 +1,4 @@
-# Hello~ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello! Nice to meet you! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <!-- ## 🧍 About Me
 * 🎓 Honours Bachelor of Mathematics at the University of Waterloo
@@ -6,16 +6,17 @@
 * 🌎 React and Node enthusiast -->
 
 
-## 🔥 Check Out
-* 🍵 [HiTea](https://hiteato.ca/ "HiTea") bubble tea shop
-* 👜 [Deluxe Consignment Store](https://deluxe-consignment.uk.r.appspot.com/ "DCS") for all things fashion
-* 💻 [Cache and Cookies 🍪](https://www.linkedin.com/company/cache-and-cookies/ "Cache and Cookies") software development
+## 😃 Experience 
+* Interned at [Uptake](https://uptake.com), completely revamping applications over to Angular
+* Developed infrastructure tools at [Avante IO](https://avante.io/)
+* Started [Cache & Cookies 🍪](https://www.linkedin.com/company/cache-and-cookies/) over the pandemic to help local businesses.
+
+## 🔥 Check Out 
+* 🍵 [HiTea](https://hiteato.ca/ "HiTea") freelance for bubble tea shop
+* 👜 [Deluxe E-Commerce Store](https://nodedeluxe.herokuapp.com/ "DCS") for all things fashion
+* 💻 [MSMR Tool](https://msmrtool.com/ "MSMR Tool") contracted for academic publishing
 
 <br />
-<!-- ## 📧 Contact Me -->
 <a href="https://www.linkedin.com/in/jimmyyang7/">
   <img align="left" alt="Jimmy's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-<!-- ## 🤣 Hehe and Haha -->
-<!-- * 🍌 Bananas are my favourite fruits -->
