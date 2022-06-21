@@ -1,4 +1,4 @@
-## Hello! Nice to meet you! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hello! Nice to meet you! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px">
 
 <!-- ## 🧍 About Me
 * 🎓 Honours Bachelor of Mathematics at the University of Waterloo
