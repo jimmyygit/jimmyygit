@@ -6,13 +6,14 @@
 * 🌎 React and Node enthusiast -->
 
 
-## 😃 Experience 
-* Interned at [Uptake](https://uptake.com), completely revamping applications over to Angular
+## 🧍 About Me 
+* Studying Computer Science at the University of Waterloo 🎓
+* Currently at [Huawei](https://www.huawei.com/ca/) working on compilers
+* Interned at [Uptake](https://uptake.com), revamping applications over to Angular and NestJS
 * Developed infrastructure tools at [Avante IO](https://avante.io/)
 * Started [Cache & Cookies 🍪](https://www.linkedin.com/company/cache-and-cookies/) over the pandemic to help local businesses.
 
 ## 🔥 Check Out 
-* 🍵 [HiTea](https://hiteato.ca/ "HiTea") freelance for bubble tea shop
 * 👜 [Deluxe E-Commerce Store](https://nodedeluxe.herokuapp.com/ "DCS") for all things fashion
 * 💻 [MSMR Tool](https://msmrtool.com/ "MSMR Tool") contracted for academic publishing
 
