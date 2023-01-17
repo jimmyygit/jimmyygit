@@ -8,7 +8,7 @@
 
 ## 🧍 About Me 
 * Studying Computer Science at the University of Waterloo 🎓
-* Currently at [Huawei](https://www.huawei.com/ca/) working on compilers
+* Worked on high-performance compute compilers at [Huawei](https://www.huawei.com/ca/)
 * Interned at [Uptake](https://uptake.com), revamping applications over to Angular and NestJS
 * Developed infrastructure tools at [Avante IO](https://avante.io/)
 * Started [Cache & Cookies 🍪](https://www.linkedin.com/company/cache-and-cookies/) over the pandemic to help local businesses.
