@@ -8,13 +8,14 @@
 
 ## 🧍 About Me 
 * Studying Computer Science at the University of Waterloo 🎓
+* Delivered EMR (Electronic Medical Record) platforms to doctors at [Dr. Inbox](https://www.drinbox.ca/)
 * Worked on high-performance compute compilers at [Huawei](https://www.huawei.com/ca/)
-* Interned at [Uptake](https://uptake.com), revamping applications over to Angular and NestJS
-* Developed infrastructure tools at [Avante IO](https://avante.io/)
+* Revamped equipment quoting applications over to Angular and NestJS at [Uptake](https://uptake.com)
+* Developed insurance infrastructure tools at [Avante IO](https://avante.io/)
 * Started [Cache & Cookies 🍪](https://www.linkedin.com/company/cache-and-cookies/) over the pandemic to help local businesses.
 
 ## 🔥 Check Out 
-* 👜 [Deluxe E-Commerce Store](https://nodedeluxe.herokuapp.com/ "DCS") for all things fashion
+* 👜 [Deluxe E-Commerce Store](https://deluxe-kccw.onrender.com/ "DCS") for all things fashion
 * 💻 [MSMR Tool](https://msmrtool.com/ "MSMR Tool") contracted for academic publishing
 
 <br />
