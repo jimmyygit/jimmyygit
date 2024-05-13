@@ -8,6 +8,7 @@
 
 ## 🧍 About Me 
 * Studying Computer Science at the University of Waterloo 🎓
+* Pioneered new AI features for text transcripts at [Genesys](https://www.genesys.com/capabilities/speech-and-text-analytics)
 * Delivered EMR (Electronic Medical Record) platforms to doctors at [Dr. Inbox](https://www.drinbox.ca/)
 * Worked on high-performance compute compilers at [Huawei](https://www.huawei.com/ca/)
 * Revamped equipment quoting applications over to Angular and NestJS at [Uptake](https://uptake.com)
